@@ -1,0 +1,6 @@
+{
+  "name": "Kéo Co Tri Thức",
+  "description": "Game kéo co trả lời câu hỏi đối kháng thông minh hỗ trợ chơi 2 người (PvP) hoặc chơi với máy (AI bot với 4 cấp độ thông minh), tab quản lý câu hỏi (thêm, sửa, xóa), chọn linh thú động vật đại diện, đồng hồ đếm thời gian cho mỗi đội, đa dạng chủ đề khoa học, lịch sử, văn hóa và tự động tăng độ khó khi thắng vòng đấu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
